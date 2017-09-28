@@ -1,2 +1,2 @@
 # fashion-magazine
-fashion magazine
+CSS and HTML

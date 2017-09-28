@@ -1,0 +1,166 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+		 box-sizing: border-box;
+		 line-height: 1.5;
+}
+
+.page-head, .page-foot {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 15px 0 15px 0;
+	width: 100%;
+	margin-bottom: 5px;
+	height: 120px;
+	font: 16px "century gothic"; 
+}
+
+.page-head-left {
+	padding-left: 10%;
+}
+
+.page-head-right {
+	width: 55%;
+	padding-left: 5%;
+	padding-top: 15px;
+	float: right;
+}
+
+.img-size {
+	width: 100%;
+	height: 250px;
+}
+
+.img-header {
+	height: 424px;
+}
+
+/*@media only screen and(max-width: 990px) {
+	page-head{
+		height: 200px;
+	}
+}
+*/
+.social {
+	margin-bottom: 10px;
+	padding-left: 60%;
+}
+
+.social img {
+	width: 30px;
+	height: 30px;
+}
+
+.img-slider {
+	width: 100%;
+	height: auto;
+}
+
+nav a {
+	color: #ffffff;
+	margin-left: 10px;
+}
+
+nav a:hover {
+	border-bottom: 2px solid #ffffff;
+	color: inherit;
+	text-decoration: none;
+}
+
+nav a:active {
+	border-bottom: 2px solid #ffffff;	
+}
+
+.container {
+	font: 15px georgia;
+	width: 85%;
+}
+
+.issues ul li{
+	list-style-type: none;
+	margin-left: -38px;
+	border-bottom: 1px dotted lightgrey; 
+	margin-bottom: 10px;
+}
+
+
+.release{
+	display: block; 
+	margin-bottom: 10px;
+}
+.release-head {
+	margin-bottom: 10px;
+	 font-style: italic; 
+	 font-family: "Century Schoolbook";
+	 font-weight: bold;
+}
+
+.article-head {
+	margin-top: 30px; 
+	font-family: "Century Schoolbook"; 
+	color: red;
+	text-align: left;
+}
+
+.article-section {
+	margin-top: 10px;
+	border-top: 1px solid lightgrey;
+	font-size: larger;
+}
+
+.article-div, .article-div-img, .article-category {
+	background-color: #ffffff;
+	padding: 5px 10;
+	border-left: 1px solid #fff;
+}
+
+.article-div img {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.article-category {
+	font: 1.5rem arial bolder;
+	letter-spacing: .3em;
+	text-transform: uppercase;
+}
+
+.author, .date {
+	font-size: x-small; 
+	font-style: italic;
+	margin-top: -2px;
+	padding-bottom: 5px; 
+	color: grey;
+	display: block;
+}
+
+.author-name {
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+.article-h3{
+	font-weight: bold;
+	font-size: x-large;
+}
+
+.article-paragraph{
+	padding-top: 20px;
+}
+
+h1, h2,h3,h4,h5,h6 {
+	font: larger "Book Antiqua" normal;
+}
+
+
+.page-foot {
+	width: 100%;
+	height: 120px;
+	margin:10px 0 0 0;
+	text-align: center;
+	padding-top: 50px;
+	clear: both;
+}
+
+/*humburg menu bar*/
+
